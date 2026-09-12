@@ -46,6 +46,8 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Website
+    url: https://www.cpkcr.com/
   - type: LinkedIn
     url: https://www.linkedin.com/company/kansas-city-southern
   - type: Successor Website
