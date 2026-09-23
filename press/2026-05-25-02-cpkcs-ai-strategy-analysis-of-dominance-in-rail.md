@@ -1,7 +1,9 @@
 ---
 title: 'CPKC''s AI Strategy: Analysis of Dominance in Rail ...'
 url: https://www.klover.ai/cpkc-ai-strategy-analysis-of-dominance-in-rail-transportation-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kansas City Southern" press release artificial intelligence'
 position: 2
 source: serpapi-google

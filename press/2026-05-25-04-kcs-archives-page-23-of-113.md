@@ -1,7 +1,9 @@
 ---
 title: KCS Archives Page 23 of 113
 url: https://blet.org/news/category/sub-categories/kcs/page/23/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kansas City Southern" press release artificial intelligence'
 position: 4
 source: serpapi-google
